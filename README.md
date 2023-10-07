@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rushikeshdadas03@gmail.com**
 
-- ⚡ Fun fact **I pretend I am happy**
+- ⚡ Fun fact **I pretend I to be happy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
