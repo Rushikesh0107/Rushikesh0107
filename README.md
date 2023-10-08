@@ -1,6 +1,6 @@
 ![Header](https://camo.githubusercontent.com/f7894ccfe5f969fc2ef0c0023ae611e88da80b9381f0b90360d58b158d27593b/68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67)
 <h1 align="center">Hi 👋, I'm Rushikesh Dadas</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2dcf1a73f7dcb84e53882d821de7b61d4362388b92e1f9d974563c489abeb342/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3730302f302a4647443642557a7a5a7331564a4c75592e676966" />
 
 <p align="left"> <a href="https://twitter.com/parzival_101" target="blank"><img src="https://img.shields.io/twitter/follow/parzival_101?logo=twitter&style=for-the-badge" alt="parzival_101" /></a> </p>
