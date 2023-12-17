@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/parzival_101" target="blank"><img src="https://img.shields.io/twitter/follow/parzival_101?logo=twitter&style=for-the-badge" alt="parzival_101" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node.js and MongoDB**
 
 - 📫 How to reach me **rushikeshdadas03@gmail.com**
 
