@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Node.js and MongoDB**
+- 🌱 I’m currently learning **SQL Database and ORM's**
 - 📫 How to reach me: **rushikeshdadas03@gmail.com**
 - ⚡ Fun fact: **I pretend to be happy**
 
