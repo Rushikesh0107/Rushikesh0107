@@ -3,17 +3,15 @@
 # Hi 👋, I'm Rushikesh Dadas
 ## A passionate developer
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/320167af893f1926ad7503d9441c123ddb1df83200f4a26f4b0e419e34359e2e/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45786133466c6144673462324d3264475a6f646e527062586c7a613349354d474e6e656d4d7863574e325a336c76647a56764e474e6c62795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f4c6c32324f684d4c416c56446238555157652f67697068792e676966" />
-
 <p align="left"> 
   <a href="https://twitter.com/parzival_101" target="blank">
     <img src="https://img.shields.io/twitter/follow/parzival_101?logo=twitter&style=for-the-badge" alt="parzival_101" />
   </a>
 </p>
 
-- 🌱 I’m currently learning **SQL Database and ORM's**
+- 🌱 I’m currently learning **Everything which comes in my way.**
 - 📫 How to reach me: **rushikeshdadas03@gmail.com**
-- ⚡ Fun fact: **I pretend to be happy**
+- ⚡ Fun fact: **If I look happy == Deployment Successfull**
 
 ### Connect with me:
 <p align="left">
